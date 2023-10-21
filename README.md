@@ -62,6 +62,6 @@ El resto de la funcionalidad está en orden y funciona correctamente.
 
 ¡Disfruta de la gestión de las horas laborales de tus empleados de manera eficiente!
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
