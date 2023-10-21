@@ -61,3 +61,7 @@ El proyecto actualmente tiene algunos aspectos que se pueden mejorar:
 El resto de la funcionalidad está en orden y funciona correctamente.
 
 ¡Disfruta de la gestión de las horas laborales de tus empleados de manera eficiente!
+
+## No olvides dar las gracias
+
+Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
